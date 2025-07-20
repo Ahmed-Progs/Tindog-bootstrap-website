@@ -7,7 +7,7 @@ TinDog is a fully responsive, mobile-friendly website built using HTML5, CSS3, a
 
 **🚀 Live Demo**
 You can view a working demo of the site here:
-https://github.com/Ahmed-Progs/Tindog-bootstrap-website.git
+https://ahmed-progs.github.io/Tindog-bootstrap-website/
 
 **🧰 Technologies Used**
 
